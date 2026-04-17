@@ -1,12 +1,12 @@
 {
-  "export_job_id": "c5952504-405b-4fa0-9dca-08963220dd51",
+  "export_job_id": "b57880be-01ca-453d-a6ec-f09a73d0f042",
   "id_short": 152673,
-  "published_at": "2026-04-10T19:17:42Z",
+  "published_at": "2026-04-17T19:04:25Z",
   "repo_name": "all-restaurants-in-salem-metro-oregon-us-sample-152673",
   "sample_asset_name": "beamstation_152673_restaurants-us-salemor_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/152673/beamstation_152673_restaurants-us-salemor_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "b7c6b4c355fa4781805017e6e26de29c5c4c659bf84cff72e83080cc9c57ee16",
-  "sample_size_bytes": 114540,
-  "total_records": 565
+  "sample_records": 94,
+  "sample_sha256": "2bb89230cb60cd670b51f0c99fa7646338ebf79455a8b708cb5818dad8e8ec05",
+  "sample_size_bytes": 329281,
+  "total_records": 943
 }
