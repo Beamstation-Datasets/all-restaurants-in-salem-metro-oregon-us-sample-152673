@@ -1,6 +1,6 @@
 # All Restaurants in Salem (Metro), Oregon, US
 
-> Free BeamStation sample export with 96 rows and masked direct-contact fields.
+> Free BeamStation sample export with 103 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `152673` |
 | Location | Salem, OR |
 | Category | Restaurants |
-| Full dataset size | 962 records |
-| Free sample size | 96 records (9.98%) |
-| Last export | 2026-04-28T17:16:19.685413+00:00 |
+| Full dataset size | 1,039 records |
+| Free sample size | 103 records (9.91%) |
+| Last export | 2026-05-06T18:37:01.118000+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-salem-metro-oregon-us-sample-152673/releases/download/sample-latest/beamstation_152673_restaurants-us-salemor_SAMPLE_DIST.csv) |
 
 ## What is in this sample
